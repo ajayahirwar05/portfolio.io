@@ -11,7 +11,7 @@ A clean, modern, and responsive personal portfolio website built with HTML5, CSS
 
 1. **Header and Navigation Bar:** Sticky, glassmorphism-styled navigation with smooth-scrolling links.
 2. **Hero Section:** Introduction snippet as an SDE aspirant with quick call-to-action (CTA) buttons.
-3. **About Me and Education:** Background overview highlighting Computer Science studies at Jabalpur Engineering College (B.Tech '27).
+3. **About Me and Education:** Background overview highlighting Electronics and Telecommunication Engineering studies at Jabalpur Engineering College (B.Tech '27).
 4. **Skills and Certifications:** Categorized skill badges (Python, DSA, OOP, Git) and verified certifications from CS50 Harvard and freeCodeCamp.
 5. **Featured Projects:** Showcase of core Python projects, including the *Arithmetic Formatter* and *Logic-Based Programs*.
 6. **Interactive Contact Form:** Client-side form with real-time JavaScript DOM input validation and XSS-safe feedback.
